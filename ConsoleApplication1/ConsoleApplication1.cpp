@@ -95,5 +95,8 @@ int main() {
 		if (ch == 'n' || ch == 'N')
 			break;
 		system("cls");
-	}
+
+	} while (true);
+	
+	return 0;
 }
